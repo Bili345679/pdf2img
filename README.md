@@ -5,5 +5,6 @@ pdf转img功能使用 [pdf2image](https://pypi.org/project/pdf2image/) 与 [popp
 
 1. 使用前需要通过 pip 安装 pdf2image 和 PIL。
 2. 使用前需要下载 [poppler-windows](https://github.com/oschwartz10612/poppler-windows/releases) 里的zip文件，解压后将文件夹内的Library/bin文件夹路径填写到本程序需要的地方
+3. 通过 ```python3 v_0_6.py ``` 运行本程序
 
 通过色彩来压缩图片
